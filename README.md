@@ -1,1 +1,1 @@
-Chattis is a simple Chat application
+Chattis <3
